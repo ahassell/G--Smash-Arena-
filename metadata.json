@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Smash Arena",
+  "description": "A high-octane, web-based 2D platform fighter featuring local multiplayer and real-time AI shoutcasting commentary powered by Google Gemini.",
+  "requestFramePermissions": []
+}
